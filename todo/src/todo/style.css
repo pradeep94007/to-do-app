@@ -1,0 +1,20 @@
+.main{
+    background-color: rgb(27, 230, 54);
+    height: 500px;
+    width : 500px;
+    border: 1px solid black;
+    margin-Top: 20px;
+    display: flex;
+    flex-Direction: column;
+    align-Items: center;
+    margin:auto;
+}
+.child-1{
+    height: 30px;
+    width: 190px;
+    border: 1px solid black;
+    /* margin-Top: 20px; */
+    display: flex;
+    align-Items: center;
+    justify-Content: center;
+}
